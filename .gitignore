@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+
+# Local data and trained artifacts
+data/
+datasets/
+artifacts/
+checkpoints*/
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Generated analysis
+results/
+*.xlsx
+*.csv
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*service-account*.json
+*credentials*.json
+

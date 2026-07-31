@@ -1,0 +1,81 @@
+Epoch 1/40
+2025-03-11 09:08:55.331155: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:117] Plugin optimizer for device_type GPU is enabled.
+476/476 ━━━━━━━━━━━━━━━━━━━━ 58s 97ms/step - loss: 46235.0898 - mAP: 0.6699 - mae: 39.7497 - val_loss: 73.0287 - val_mAP: 0.8137 - val_mae: 6.6146
+Epoch 2/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 47s 98ms/step - loss: 52.2784 - mAP: 0.8813 - mae: 5.3735 - val_loss: 49.3809 - val_mAP: 0.8798 - val_mae: 5.3636
+Epoch 3/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 60s 125ms/step - loss: 34.4345 - mAP: 0.9326 - mae: 4.3345 - val_loss: 55.0765 - val_mAP: 0.8769 - val_mae: 5.6788
+Epoch 4/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 63s 132ms/step - loss: 80.8668 - mAP: 0.8424 - mae: 6.2264 - val_loss: 37.6521 - val_mAP: 0.9235 - val_mae: 4.5387
+Epoch 5/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 52s 108ms/step - loss: 28.2512 - mAP: 0.9452 - mae: 3.9861 - val_loss: 33.4048 - val_mAP: 0.9360 - val_mae: 4.3227
+Epoch 6/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 56s 118ms/step - loss: 23.4194 - mAP: 0.9582 - mae: 3.6511 - val_loss: 31.3730 - val_mAP: 0.9453 - val_mae: 4.1786
+Epoch 7/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 59s 124ms/step - loss: 18.8329 - mAP: 0.9725 - mae: 3.2720 - val_loss: 29.3066 - val_mAP: 0.9492 - val_mae: 4.0197
+Epoch 8/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 58s 121ms/step - loss: 14.5886 - mAP: 0.9817 - mae: 2.8281 - val_loss: 27.7307 - val_mAP: 0.9524 - val_mae: 3.9236
+Epoch 9/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 59s 124ms/step - loss: 13.5122 - mAP: 0.9834 - mae: 2.7125 - val_loss: 26.9308 - val_mAP: 0.9570 - val_mae: 3.8735
+Epoch 10/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 59s 124ms/step - loss: 12.2356 - mAP: 0.9860 - mae: 2.5810 - val_loss: 27.0972 - val_mAP: 0.9525 - val_mae: 3.8842
+Epoch 11/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 63s 131ms/step - loss: 14.6549 - mAP: 0.9820 - mae: 2.9022 - val_loss: 29.7980 - val_mAP: 0.9473 - val_mae: 4.1058
+Epoch 12/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 61s 128ms/step - loss: 18.1538 - mAP: 0.9727 - mae: 3.2179 - val_loss: 28.2515 - val_mAP: 0.9524 - val_mae: 3.9281
+Epoch 13/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 60s 126ms/step - loss: 13.7405 - mAP: 0.9847 - mae: 2.8117 - val_loss: 52.8339 - val_mAP: 0.8565 - val_mae: 5.8201
+Epoch 14/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 62s 129ms/step - loss: 15.7349 - mAP: 0.9807 - mae: 3.0243 - val_loss: 81.3108 - val_mAP: 0.7469 - val_mae: 7.5527
+Epoch 15/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 61s 128ms/step - loss: 19.8554 - mAP: 0.9667 - mae: 3.4017 - val_loss: 33.1133 - val_mAP: 0.9411 - val_mae: 4.3995
+Epoch 16/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 62s 129ms/step - loss: 14.7323 - mAP: 0.9843 - mae: 2.9646 - val_loss: 28.8794 - val_mAP: 0.9538 - val_mae: 4.1041
+Epoch 17/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 61s 128ms/step - loss: 14.4475 - mAP: 0.9861 - mae: 2.9489 - val_loss: 23.9586 - val_mAP: 0.9647 - val_mae: 3.6508
+Epoch 18/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 59s 124ms/step - loss: 15.7851 - mAP: 0.9807 - mae: 3.0758 - val_loss: 38.6847 - val_mAP: 0.9142 - val_mae: 4.8645
+Epoch 19/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 60s 126ms/step - loss: 13.6589 - mAP: 0.9862 - mae: 2.8622 - val_loss: 46.7499 - val_mAP: 0.8864 - val_mae: 5.4492
+Epoch 20/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 60s 125ms/step - loss: 14.8626 - mAP: 0.9843 - mae: 3.0083 - val_loss: 27.1194 - val_mAP: 0.9543 - val_mae: 3.8978
+Epoch 21/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 60s 125ms/step - loss: 13.3924 - mAP: 0.9867 - mae: 2.8225 - val_loss: 35.9694 - val_mAP: 0.9331 - val_mae: 4.4822
+Epoch 22/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 60s 127ms/step - loss: 16.1153 - mAP: 0.9796 - mae: 3.1193 - val_loss: 47.2384 - val_mAP: 0.8850 - val_mae: 5.5002
+Epoch 23/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 61s 127ms/step - loss: 15.2035 - mAP: 0.9814 - mae: 2.9768 - val_loss: 22.7525 - val_mAP: 0.9669 - val_mae: 3.4756
+Epoch 24/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 61s 129ms/step - loss: 9.8173 - mAP: 0.9931 - mae: 2.3810 - val_loss: 22.7846 - val_mAP: 0.9650 - val_mae: 3.5089
+Epoch 25/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 61s 129ms/step - loss: 7.3945 - mAP: 0.9968 - mae: 2.0540 - val_loss: 24.5712 - val_mAP: 0.9572 - val_mae: 3.6403
+Epoch 26/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 59s 125ms/step - loss: 6.0227 - mAP: 0.9983 - mae: 1.8545 - val_loss: 23.7588 - val_mAP: 0.9641 - val_mae: 3.6274
+Epoch 27/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 56s 118ms/step - loss: 5.5130 - mAP: 0.9985 - mae: 1.7704 - val_loss: 27.6913 - val_mAP: 0.9544 - val_mae: 3.9449
+Epoch 28/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 56s 117ms/step - loss: 11.2034 - mAP: 0.9920 - mae: 2.5933 - val_loss: 21.7761 - val_mAP: 0.9649 - val_mae: 3.4396
+Epoch 29/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 53s 111ms/step - loss: 9.1954 - mAP: 0.9947 - mae: 2.3127 - val_loss: 22.9325 - val_mAP: 0.9615 - val_mae: 3.5827
+Epoch 30/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 52s 110ms/step - loss: 9.9507 - mAP: 0.9936 - mae: 2.4267 - val_loss: 33.5326 - val_mAP: 0.9271 - val_mae: 4.4601
+Epoch 31/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 52s 108ms/step - loss: 10.5846 - mAP: 0.9934 - mae: 2.5401 - val_loss: 45.0908 - val_mAP: 0.8851 - val_mae: 5.4317
+Epoch 32/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 52s 110ms/step - loss: 21.3035 - mAP: 0.9743 - mae: 3.2096 - val_loss: 23.0298 - val_mAP: 0.9626 - val_mae: 3.6516
+Epoch 33/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 53s 112ms/step - loss: 9.3830 - mAP: 0.9958 - mae: 2.3910 - val_loss: 28.7883 - val_mAP: 0.9429 - val_mae: 4.1975
+Epoch 34/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 49s 104ms/step - loss: 6.3325 - mAP: 0.9981 - mae: 1.9092 - val_loss: 20.8214 - val_mAP: 0.9646 - val_mae: 3.4748
+Epoch 35/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 50s 105ms/step - loss: 4.6524 - mAP: 0.9991 - mae: 1.6125 - val_loss: 19.4050 - val_mAP: 0.9688 - val_mae: 3.2888
+Epoch 36/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 48s 101ms/step - loss: 3.7067 - mAP: 0.9996 - mae: 1.4380 - val_loss: 19.6678 - val_mAP: 0.9672 - val_mae: 3.3411
+Epoch 37/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 50s 105ms/step - loss: 3.4174 - mAP: 0.9996 - mae: 1.3945 - val_loss: 18.8380 - val_mAP: 0.9704 - val_mae: 3.2336
+Epoch 38/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 51s 108ms/step - loss: 3.3510 - mAP: 0.9997 - mae: 1.3900 - val_loss: 17.9326 - val_mAP: 0.9763 - val_mae: 3.1600
+Epoch 39/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 51s 107ms/step - loss: 5.0161 - mAP: 0.9994 - mae: 1.7298 - val_loss: 17.3342 - val_mAP: 0.9787 - val_mae: 3.1198
+Epoch 40/40
+476/476 ━━━━━━━━━━━━━━━━━━━━ 51s 107ms/step - loss: 6.0004 - mAP: 0.9993 - mae: 1.9105 - val_loss: 16.9079 - val_mAP: 0.9827 - val_mae: 3.1127

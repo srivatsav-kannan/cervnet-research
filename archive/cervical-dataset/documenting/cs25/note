@@ -1,0 +1,19 @@
+Accuracy: 0.9656810982048575
+Precision: 0.9672495424534143
+Recall: 0.9656810982048575
+F1 Score: 0.9656479120106051
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9404    0.9947    0.9668       951
+           1     0.9944    0.9364    0.9645       943
+
+    accuracy                         0.9657      1894
+   macro avg     0.9674    0.9656    0.9656      1894
+weighted avg     0.9672    0.9657    0.9656      1894
+
+2025-01-28 18:36:14.787212: W tensorflow/core/framework/local_rendezvous.cc:404] Local rendezvous is aborting with status: OUT_OF_RANGE: End of sequence
+2025-01-28 18:36:17.542 python[1075:10818] +[IMKClient subclass]: chose IMKClient_Legacy
+2025-01-28 18:36:17.542 python[1075:10818] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+Sensitivity (Recall) for each class: [0.99474238 0.93637328]
+Specificity for each class: [0.936373276776246, 0.9947423764458465]

@@ -1,0 +1,15 @@
+train_dir = "/Users/srivatsavkannan/Datasets/CervicalNew/TrainCropped"
+val_dir = "/Users/srivatsavkannan/Datasets/CervicalNew/ValCropped"
+
+No processing, nothing. Bare Bones
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9412    1.0000    0.9697        16
+           1     1.0000    0.9756    0.9877        41
+
+    accuracy                         0.9825        57
+   macro avg     0.9706    0.9878    0.9787        57
+weighted avg     0.9835    0.9825    0.9826        57
+
