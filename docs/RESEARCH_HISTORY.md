@@ -11,10 +11,18 @@ They are now represented as historical branches inside this repository.
 | `cervical-fracture-test` | 2024 | Early Hugging Face ViT fracture-classification prototype; not part of the current CS/healthy pipeline |
 | `CervicalNew` | 2025 onward | Most recent combined work on EfficientNetB7 classification, keypoints, quantitative measures, preprocessing, and saliency |
 
-The imported histories live under `archive/`. “Archive” means preserved and
-discoverable, not validated or production-ready. Machine-specific paths, copied
-experiments, and known metric inconsistencies remain visible so the scientific record
-is not silently rewritten.
+Reviewed snapshots live as separate projects under `prototypes/`. “Prototype”
+means preserved and discoverable, not validated or production-ready.
+Machine-specific paths, copied experiments, and known metric inconsistencies
+remain visible so the scientific record is not silently rewritten.
+
+| Former repository | Public folder |
+|---|---|
+| `CervicalNew` | `prototypes/current-combined/` |
+| `CervicalDataset` | `prototypes/historical-binary-and-localization/` |
+| `CervicalCurvature` | `prototypes/five-class-curvature/` |
+| `CervicalQuantFinal` | `prototypes/quantitative-modeling/` |
+| `cervical-fracture-test` | `prototypes/vit-fracture/` |
 
 ## Canonical interpretation
 
@@ -23,4 +31,3 @@ is a binary CS/healthy image classifier complemented by a 23-keypoint quantitati
 pipeline. The quantitative repository explores whether tabular measurements, predicted
 measurements, or multimodal fusion can improve that task. Curvature and fracture work
 are related experiments, not direct replacements for the binary pipeline.
-
